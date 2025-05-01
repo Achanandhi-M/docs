@@ -23,7 +23,7 @@
     },
     {
       "type": "category",
-      "label": "API Testing",
+      "label": "Integration Testing",
       "collapsible": true,
       "collapsed": false,
       "items": [
@@ -163,8 +163,18 @@
       "collapsible": true,
       "collapsed": true,
       "items": [
-        "keploy-explained/faq",
         "keploy-explained/errors"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "FAQs",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        "keploy-explained/Unit Testing",
+        "keploy-explained/Integration Testing",
+        "keploy-explained/API Testing"
       ]
     }
   ],
